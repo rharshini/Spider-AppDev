@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="depts"> Choose department </string>
+
+    <string-array name="departments">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>ICE</item>
+        <item>Mech</item>
+        <item>Civil</item>
+        <item>Chem</item>
+        <item>Prod</item>
+        <item>Meta</item>
+    </string-array>
+</resources>
